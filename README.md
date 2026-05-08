@@ -1,4 +1,4 @@
-# Assignment 2 — EDS 232
+# Assignment 3 — EDS 232
 
 **Regualrization, PCA and Decision Trees**
 
