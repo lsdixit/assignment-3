@@ -2,8 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
-task1/tests/
-task2/tests/
+
 
 task1/.OTTER_LOG
 task2/.OTTER_LOG
